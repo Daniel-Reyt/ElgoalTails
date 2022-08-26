@@ -343,29 +343,29 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 342
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 343
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 344
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 345
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 346
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 347
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 348
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 349
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 350
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 351
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 352
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 353
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 354
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 355
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 356
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 357
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 358
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 359
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 360
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 361
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 362
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 363
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 364
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 365
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 366
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 346
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 347
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 348
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 349
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 350
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 351
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 352
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 355
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 356
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 357
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 358
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 367
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 368
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 369
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 370
@@ -380,56 +380,56 @@
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 379
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 380
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 381
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_Placeholder.uasset" 382
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_Placeholder.uexp" 383
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_Placeholder.ubulk" 384
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Circle.uasset" 385
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Circle.uexp" 386
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Rect.uasset" 387
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Rect.uexp" 388
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 389
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 390
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_CanvasClip.uasset" 391
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_CanvasClip.uexp" 392
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_Background.uasset" 393
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_Background.uexp" 394
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_BackgroundFill.uasset" 395
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_BackgroundFill.uexp" 396
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_Canvas_Fog.uasset" 397
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_Canvas_Fog.uexp" 398
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Fog/T_TestFog.uasset" 399
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Fog/T_TestFog.uexp" 400
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Fog/T_TestFog.ubulk" 401
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_FogCombine.uasset" 402
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_FogCombine.uexp" 403
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/MF_UMG_SampleBackground.uasset" 404
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/MF_UMG_SampleBackground.uexp" 405
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_UMG_Fog.uasset" 406
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_UMG_Fog.uexp" 407
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 408
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 409
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_WorldFog.uasset" 410
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_WorldFog.uexp" 411
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_Canvas_MapIcon.uasset" 412
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_Canvas_MapIcon.uexp" 413
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 414
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 415
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/MF_UMG_SampleIcon.uasset" 416
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/MF_UMG_SampleIcon.uexp" 417
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_UMG_MapIcon.uasset" 418
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_UMG_MapIcon.uexp" 419
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_InverseLerp.uasset" 420
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_InverseLerp.uexp" 421
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Revealers/M_Revealer_Circle.uasset" 422
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Revealers/M_Revealer_Circle.uexp" 423
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_ObjectiveArrow.uasset" 424
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_ObjectiveArrow.uexp" 425
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 426
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 427
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 428
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 429
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 430
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 431
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 382
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 383
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 384
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 385
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 386
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 387
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_Placeholder.uasset" 388
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_Placeholder.uexp" 389
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_Placeholder.ubulk" 390
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Circle.uasset" 391
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Circle.uexp" 392
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Rect.uasset" 393
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_Rect.uexp" 394
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 395
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 396
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_CanvasClip.uasset" 397
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_Mask_CanvasClip.uexp" 398
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_Background.uasset" 399
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_Background.uexp" 400
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_BackgroundFill.uasset" 401
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_Canvas_BackgroundFill.uexp" 402
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_Canvas_Fog.uasset" 403
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_Canvas_Fog.uexp" 404
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Fog/T_TestFog.uasset" 405
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Fog/T_TestFog.uexp" 406
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Fog/T_TestFog.ubulk" 407
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_FogCombine.uasset" 408
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_FogCombine.uexp" 409
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/MF_UMG_SampleBackground.uasset" 410
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/MF_UMG_SampleBackground.uexp" 411
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_UMG_Fog.uasset" 412
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_UMG_Fog.uexp" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 415
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_WorldFog.uasset" 416
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Fog/M_WorldFog.uexp" 417
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_Canvas_MapIcon.uasset" 418
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_Canvas_MapIcon.uexp" 419
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 421
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/MF_UMG_SampleIcon.uasset" 422
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/MF_UMG_SampleIcon.uexp" 423
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_UMG_MapIcon.uasset" 424
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Icons/M_UMG_MapIcon.uexp" 425
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_InverseLerp.uasset" 426
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Common/MF_InverseLerp.uexp" 427
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Revealers/M_Revealer_Circle.uasset" 428
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Revealers/M_Revealer_Circle.uexp" 429
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_ObjectiveArrow.uasset" 430
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_ObjectiveArrow.uexp" 431
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 432
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 433
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 434
@@ -557,490 +557,490 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 556
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 557
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 558
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/RT_MinimapSnapshot.uasset" 559
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/RT_MinimapSnapshot.uexp" 560
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Screen_Dirt.uasset" 561
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Screen_Dirt.uexp" 562
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.uasset" 563
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.uexp" 564
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.ubulk" 565
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.uptnl" 566
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_N.uasset" 567
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_N.uexp" 568
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_BC.uasset" 569
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_BC.uexp" 570
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_N.uasset" 571
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_N.uexp" 572
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_BC.uasset" 573
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_BC.uexp" 574
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Master/M_Terrain.uasset" 575
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Master/M_Terrain.uexp" 576
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Meshes/Terrain/SM_Terrain.uasset" 577
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Meshes/Terrain/SM_Terrain.uexp" 578
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_CircleMask.uasset" 579
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_CircleMask.uexp" 580
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Tooltip.uasset" 581
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Tooltip.uexp" 582
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BoxSelect.uasset" 583
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BoxSelect.uexp" 584
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_IconMouseCapture.uasset" 585
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_IconMouseCapture.uexp" 586
-"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uasset" 587
-"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uexp" 588
-"../../../Engine/Content/EditorResources/Ai_Spawnpoint.ubulk" 589
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Icon.uasset" 590
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Icon.uexp" 591
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 592
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 593
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 594
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Fog.uasset" 595
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Fog.uexp" 596
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Camera.uasset" 597
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Camera.uexp" 598
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_Background.uasset" 599
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_Background.uexp" 600
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Background.uasset" 601
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Background.uexp" 602
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BackgroundMouseCapture.uasset" 603
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BackgroundMouseCapture.uexp" 604
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/Minimap.uasset" 605
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/Minimap.uexp" 606
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Minimap_HUD.uasset" 607
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Minimap_HUD.uexp" 608
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/lightning-strike.uasset" 609
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/lightning-strike.uexp" 610
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/fireball.uasset" 611
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/fireball.uexp" 612
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Spell_HUD.uasset" 613
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Spell_HUD.uexp" 614
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_PhysicsAsset.uasset" 615
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_PhysicsAsset.uexp" 616
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__specular.uasset" 617
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__specular.uexp" 618
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__specular.ubulk" 619
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__normal.uasset" 620
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__normal.uexp" 621
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__normal.ubulk" 622
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__diffuse.uasset" 623
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__diffuse.uexp" 624
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__diffuse.ubulk" 625
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon_MAT.uasset" 626
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon_MAT.uexp" 627
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_Skeleton.uasset" 628
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_Skeleton.uexp" 629
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek.uasset" 630
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek.uexp" 631
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 632
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 633
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Tech_Hex_Tile_M.uasset" 634
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Tech_Hex_Tile_M.uexp" 635
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Tech_Hex_Tile_M.ubulk" 636
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/GeneratedBand.uasset" 637
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/GeneratedBand.uexp" 638
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Shield.uasset" 639
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Shield.uexp" 640
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Enemy_HUD.uasset" 641
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Enemy_HUD.uexp" 642
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/IA_Maw_Spawner_BP.uasset" 643
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/IA_Maw_Spawner_BP.uexp" 644
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Wiezzorek.uasset" 645
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Wiezzorek.uexp" 646
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_NPC_Colorable.uasset" 647
-"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_NPC_Colorable.uexp" 648
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveParams.uasset" 649
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveParams.uexp" 650
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_settings_menu.uasset" 651
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_settings_menu.uexp" 652
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveGame.uasset" 653
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveGame.uexp" 654
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/BP_player.uasset" 655
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/BP_player.uexp" 656
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_PhysicsAsset.uasset" 657
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_PhysicsAsset.uexp" 658
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_normal.uasset" 659
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_normal.uexp" 660
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_normal.ubulk" 661
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_glow.uasset" 662
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_glow.uexp" 663
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_glow.ubulk" 664
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_diffuse.uasset" 665
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_diffuse.uexp" 666
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_diffuse.ubulk" 667
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maria_specular.uasset" 668
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maria_specular.uexp" 669
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maria_specular.ubulk" 670
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_MAT.uasset" 671
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_MAT.uexp" 672
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_Skeleton.uasset" 673
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_Skeleton.uexp" 674
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw.uasset" 675
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw.uexp" 676
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17_Skeleton.uasset" 677
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17_Skeleton.uexp" 678
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_N.uasset" 679
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_N.uexp" 680
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_M.uasset" 681
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_M.uexp" 682
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_M.ubulk" 683
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_D.uasset" 684
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_D.uexp" 685
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_N.uasset" 686
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_N.uexp" 687
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_M.uasset" 688
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_M.uexp" 689
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_M.ubulk" 690
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_D.uasset" 691
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_D.uexp" 692
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/M_Dual_Blade_Axe17.uasset" 693
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/M_Dual_Blade_Axe17.uexp" 694
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17.uasset" 695
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17.uexp" 696
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/Bp_Object.uasset" 697
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/Bp_Object.uexp" 698
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Axe_17.uasset" 699
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Axe_17.uexp" 700
-"../../../Engine/Content/BasicShapes/Cube.uasset" 701
-"../../../Engine/Content/BasicShapes/Cube.uexp" 702
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.uasset" 703
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.uexp" 704
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.ubulk" 705
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.uasset" 706
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.uexp" 707
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.ubulk" 708
-"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 709
-"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 710
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset" 711
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uexp" 712
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset" 713
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uexp" 714
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST.uasset" 715
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST.uexp" 716
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Maw_secondary_attack.uasset" 717
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Maw_secondary_attack.uexp" 718
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 719
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 720
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 721
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 722
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Dying.uasset" 723
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Dying.uexp" 724
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Up.uasset" 725
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Up.uexp" 726
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Down.uasset" 727
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Down.uexp" 728
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Falling_Idle.uasset" 729
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Falling_Idle.uexp" 730
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Heavy_Weapon_Swing.uasset" 731
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Heavy_Weapon_Swing.uexp" 732
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Walking.uasset" 733
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Walking.uexp" 734
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Standing_Idle.uasset" 735
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Standing_Idle.uexp" 736
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Slow_Run.uasset" 737
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Slow_Run.uexp" 738
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_1D_Maw.uasset" 739
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_1D_Maw.uexp" 740
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Great_Sword_Slash.uasset" 741
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Great_Sword_Slash.uexp" 742
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_Maw.uasset" 743
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_Maw.uexp" 744
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/BP_Maw.uasset" 745
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/BP_Maw.uexp" 746
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Save_and_Load_HUD.uasset" 747
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Save_and_Load_HUD.uexp" 748
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_HealHeart_02.uasset" 749
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_HealHeart_02.uexp" 750
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_HealHeart_02.ubulk" 751
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/HealCount_HUD.uasset" 752
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/HealCount_HUD.uexp" 753
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Gameover_HUD.uasset" 754
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Gameover_HUD.uexp" 755
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_PhysicsAsset.uasset" 756
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_PhysicsAsset.uexp" 757
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse_ncl1_1.uasset" 758
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse_ncl1_1.uexp" 759
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse_ncl1_1.ubulk" 760
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Lashes_MAT.uasset" 761
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Lashes_MAT.uexp" 762
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse.uasset" 763
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse.uexp" 764
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse.ubulk" 765
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_StdNM.uasset" 766
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_StdNM.uexp" 767
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_StdNM.ubulk" 768
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/EyeSpec_MAT.uasset" 769
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/EyeSpec_MAT.uexp" 770
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Body_MAT.uasset" 771
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Body_MAT.uexp" 772
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_normal.uasset" 773
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_normal.uexp" 774
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_normal.ubulk" 775
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_diffuse.uasset" 776
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_diffuse.uexp" 777
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_diffuse.ubulk" 778
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Akai_MAT.uasset" 779
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Akai_MAT.uexp" 780
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_Skeleton.uasset" 781
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_Skeleton.uexp" 782
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer.uasset" 783
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer.uexp" 784
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Metal.uasset" 785
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Metal.uexp" 786
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Gold.uasset" 787
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Gold.uexp" 788
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/shield_2_.uasset" 789
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/shield_2_.uexp" 790
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Shield.uasset" 791
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Shield.uexp" 792
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword_Skeleton.uasset" 793
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword_Skeleton.uexp" 794
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_N.uasset" 795
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_N.uexp" 796
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_M.uasset" 797
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_M.uexp" 798
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_M.ubulk" 799
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_D.uasset" 800
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_D.uexp" 801
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_N.uasset" 802
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_N.uexp" 803
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_M.uasset" 804
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_M.uexp" 805
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_M.ubulk" 806
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_D.uasset" 807
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_D.uexp" 808
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/M_Blade_DragonSword.uasset" 809
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/M_Blade_DragonSword.uexp" 810
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword.uasset" 811
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword.uexp" 812
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Dragon_Blade.uasset" 813
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Dragon_Blade.uexp" 814
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_001.uasset" 815
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_001.uexp" 816
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 817
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 818
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 819
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_0.uasset" 820
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_0.uexp" 821
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/heal.uasset" 822
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/heal.uexp" 823
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/BP_HealGlass.uasset" 824
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/BP_HealGlass.uexp" 825
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/plywood_diff_4k.uasset" 826
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/plywood_diff_4k.uexp" 827
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/plywood_diff_4k.ubulk" 828
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Wood.uasset" 829
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Wood.uexp" 830
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/chest.uasset" 831
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/chest.uexp" 832
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Chest/BP_chest.uasset" 833
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Chest/BP_chest.uexp" 834
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/BPI_PlayerMove.uasset" 835
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/BPI_PlayerMove.uexp" 836
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Spiral_Swirl_01.uasset" 837
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Spiral_Swirl_01.uexp" 838
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.uasset" 839
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.uexp" 840
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.ubulk" 841
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uasset" 842
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uexp" 843
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST.uasset" 844
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST.uexp" 845
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.uasset" 846
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.uexp" 847
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.ubulk" 848
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset" 849
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uexp" 850
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uasset" 851
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uexp" 852
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uasset" 853
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uexp" 854
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.ubulk" 855
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset" 856
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uexp" 857
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Ability/Heal/P_Health_Pickup_01.uasset" 858
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Ability/Heal/P_Health_Pickup_01.uexp" 859
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/HealEffect.uasset" 860
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/HealEffect.uexp" 861
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Dying.uasset" 862
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Dying.uexp" 863
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Block_Idle.uasset" 864
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Block_Idle.uexp" 865
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Up.uasset" 866
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Up.uexp" 867
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Down.uasset" 868
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Down.uexp" 869
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Falling_Idle.uasset" 870
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Falling_Idle.uexp" 871
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Button_Pushing.uasset" 872
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Button_Pushing.uexp" 873
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Walking.uasset" 874
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Walking.uexp" 875
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Standing_Idle.uasset" 876
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Standing_Idle.uexp" 877
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Slow_Run.uasset" 878
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Slow_Run.uexp" 879
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_1D_Erika.uasset" 880
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_1D_Erika.uexp" 881
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Slash.uasset" 882
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Slash.uexp" 883
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_Erika.uasset" 884
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_Erika.uexp" 885
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Bp_Erika.uasset" 886
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Bp_Erika.uexp" 887
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Erika.uasset" 888
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Erika.uexp" 889
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/AIC_maw.uasset" 890
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/AIC_maw.uexp" 891
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/BP_Maw_IA.uasset" 892
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/BP_Maw_IA.uexp" 893
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Shield.uasset" 894
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Shield.uexp" 895
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Lightning/T_Lightning_Radial_4X4.uasset" 896
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Lightning/T_Lightning_Radial_4X4.uexp" 897
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Lightning/T_Lightning_Radial_4X4.ubulk" 898
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset" 899
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uexp" 900
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Lightning/M_Lightning_Radial_01_Add_2X2_INST.uasset" 901
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Lightning/M_Lightning_Radial_01_Add_2X2_INST.uexp" 902
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Lightning/P_Grunt_Lightningthrower_weapon.uasset" 903
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Lightning/P_Grunt_Lightningthrower_weapon.uexp" 904
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Air_m.uasset" 905
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Air_m.uexp" 906
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/LightningStrike.uasset" 907
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/LightningStrike.uexp" 908
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireBall.uasset" 909
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireBall.uexp" 910
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uasset" 911
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uexp" 912
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.ubulk" 913
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset" 914
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uexp" 915
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset" 916
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uexp" 917
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.uasset" 918
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.uexp" 919
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.ubulk" 920
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset" 921
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uexp" 922
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.uasset" 923
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.uexp" 924
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset" 925
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uexp" 926
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.ubulk" 927
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset" 928
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uexp" 929
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uasset" 930
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uexp" 931
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.ubulk" 932
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uasset" 933
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uexp" 934
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Base.uasset" 935
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Base.uexp" 936
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.uasset" 937
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.uexp" 938
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.ubulk" 939
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uasset" 940
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uexp" 941
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/fireball.uasset" 942
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/fireball.uexp" 943
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Dying.uasset" 944
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Dying.uexp" 945
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Up.uasset" 946
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Up.uexp" 947
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Down.uasset" 948
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Down.uexp" 949
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Falling_Idle.uasset" 950
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Falling_Idle.uexp" 951
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Button_Pushing.uasset" 952
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Button_Pushing.uexp" 953
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Walking.uasset" 954
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Walking.uexp" 955
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Standing_Idle.uasset" 956
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Standing_Idle.uexp" 957
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Slow_Run.uasset" 958
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Slow_Run.uexp" 959
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anime_BS_1D_Wiezzorek.uasset" 960
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anime_BS_1D_Wiezzorek.uexp" 961
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Heal.uasset" 962
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Heal.uexp" 963
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Attack.uasset" 964
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Attack.uexp" 965
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anim_Wiezzorek.uasset" 966
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anim_Wiezzorek.uexp" 967
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/BP_wiezzorek.uasset" 968
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/BP_wiezzorek.uexp" 969
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Life_HUD.uasset" 970
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Life_HUD.uexp" 971
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Instances/MI_Terrain.uasset" 972
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Instances/MI_Terrain.uexp" 973
-"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 974
-"../../../Engine/Content/MapTemplates/TilingNoise05.uexp" 975
-"../../../Engine/Content/MapTemplates/TilingNoise05.ubulk" 976
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 977
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 978
-"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 979
-"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uexp" 980
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Skeleton.uasset" 981
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Skeleton.uexp" 982
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Physics.uasset" 983
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Physics.uexp" 984
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_R_AO_MTTex.uasset" 985
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_R_AO_MTTex.uexp" 986
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_R_AO_MTTex.ubulk" 987
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_NTex.uasset" 988
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_NTex.uexp" 989
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_NTex.ubulk" 990
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_ETex.uasset" 991
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_ETex.uexp" 992
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_ETex.ubulk" 993
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_BCTex.uasset" 994
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_BCTex.uexp" 995
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_BCTex.ubulk" 996
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Materials/DragonTheUsurper/RedMat.uasset" 997
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Materials/DragonTheUsurper/RedMat.uexp" 998
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurperSK.uasset" 999
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurperSK.uexp" 1000
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyIdleAnim.uasset" 1001
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyIdleAnim.uexp" 1002
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyForwardAnim.uasset" 1003
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyForwardAnim.uexp" 1004
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim_1D.uasset" 1005
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim_1D.uexp" 1006
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim.uasset" 1007
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim.uexp" 1008
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/AIC_Dragon.uasset" 1009
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/AIC_Dragon.uexp" 1010
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_BP.uasset" 1011
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_BP.uexp" 1012
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Skeleton.uasset" 559
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Skeleton.uexp" 560
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyIdleAnim.uasset" 561
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyIdleAnim.uexp" 562
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyForwardAnim.uasset" 563
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Animations/DragonTheUsurper/FlyForwardAnim.uexp" 564
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim_1D.uasset" 565
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim_1D.uexp" 566
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim.uasset" 567
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_Anim.uexp" 568
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Spiral_Swirl_01.uasset" 569
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_Spiral_Swirl_01.uexp" 570
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.uasset" 571
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.uexp" 572
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.ubulk" 573
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uasset" 574
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uexp" 575
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST.uasset" 576
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Swipe_Mesh_Add_2Sided_01_INST.uexp" 577
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.uasset" 578
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.uexp" 579
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_02.ubulk" 580
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset" 581
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uexp" 582
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uasset" 583
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uexp" 584
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uasset" 585
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.uexp" 586
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SoftFallOff.ubulk" 587
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uasset" 588
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.uexp" 589
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Ability/Heal/P_Health_Pickup_01.uasset" 590
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Ability/Heal/P_Health_Pickup_01.uexp" 591
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/HealEffect.uasset" 592
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/HealEffect.uexp" 593
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/BP_player.uasset" 594
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/BP_player.uexp" 595
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/Bp_Object.uasset" 596
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/Bp_Object.uexp" 597
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_Skeleton.uasset" 598
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_Skeleton.uexp" 599
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 600
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 601
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 602
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 603
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Dying.uasset" 604
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Dying.uexp" 605
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Up.uasset" 606
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Up.uexp" 607
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Down.uasset" 608
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Jumping_Down.uexp" 609
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Falling_Idle.uasset" 610
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Falling_Idle.uexp" 611
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Button_Pushing.uasset" 612
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Button_Pushing.uexp" 613
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Walking.uasset" 614
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Walking.uexp" 615
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Standing_Idle.uasset" 616
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Standing_Idle.uexp" 617
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Slow_Run.uasset" 618
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Slow_Run.uexp" 619
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anime_BS_1D_Wiezzorek.uasset" 620
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anime_BS_1D_Wiezzorek.uexp" 621
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_Skeleton.uasset" 622
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_Skeleton.uexp" 623
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Up.uasset" 624
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Up.uexp" 625
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Down.uasset" 626
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Jumping_Down.uexp" 627
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Falling_Idle.uasset" 628
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Falling_Idle.uexp" 629
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Walking.uasset" 630
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Walking.uexp" 631
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Standing_Idle.uasset" 632
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Standing_Idle.uexp" 633
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Slow_Run.uasset" 634
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Slow_Run.uexp" 635
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_1D_Maw.uasset" 636
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_1D_Maw.uexp" 637
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_PhysicsAsset.uasset" 638
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_PhysicsAsset.uexp" 639
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse_ncl1_1.uasset" 640
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse_ncl1_1.uexp" 641
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse_ncl1_1.ubulk" 642
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Lashes_MAT.uasset" 643
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Lashes_MAT.uexp" 644
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_StdNM.uasset" 645
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_StdNM.uexp" 646
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_StdNM.ubulk" 647
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse.uasset" 648
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse.uexp" 649
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/FemaleFitA_Body_diffuse.ubulk" 650
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/EyeSpec_MAT.uasset" 651
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/EyeSpec_MAT.uexp" 652
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Body_MAT.uasset" 653
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Body_MAT.uexp" 654
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_normal.uasset" 655
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_normal.uexp" 656
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_normal.ubulk" 657
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_diffuse.uasset" 658
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_diffuse.uexp" 659
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Erika_Archer_Clothes_diffuse.ubulk" 660
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Akai_MAT.uasset" 661
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Akai_MAT.uexp" 662
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_Skeleton.uasset" 663
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer_Skeleton.uexp" 664
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer.uasset" 665
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/erika_archer.uexp" 666
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/BPI_PlayerMove.uasset" 667
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/BPI_PlayerMove.uexp" 668
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Dying.uasset" 669
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Dying.uexp" 670
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Up.uasset" 671
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Up.uexp" 672
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Down.uasset" 673
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Jumping_Down.uexp" 674
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Falling_Idle.uasset" 675
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Falling_Idle.uexp" 676
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Button_Pushing.uasset" 677
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Button_Pushing.uexp" 678
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Walking.uasset" 679
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Walking.uexp" 680
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Standing_Idle.uasset" 681
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Standing_Idle.uexp" 682
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Slow_Run.uasset" 683
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Slow_Run.uexp" 684
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_1D_Erika.uasset" 685
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_1D_Erika.uexp" 686
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Slash.uasset" 687
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Slash.uexp" 688
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Block_Idle.uasset" 689
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Human/Erika/Sword_And_Shield_Block_Idle.uexp" 690
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_Erika.uasset" 691
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Humans/Erika/Anim_Erika.uexp" 692
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_HealHeart_02.uasset" 693
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_HealHeart_02.uexp" 694
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_HealHeart_02.ubulk" 695
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/HealCount_HUD.uasset" 696
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/HealCount_HUD.uexp" 697
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Gameover_HUD.uasset" 698
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Gameover_HUD.uexp" 699
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Metal.uasset" 700
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Metal.uexp" 701
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Gold.uasset" 702
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Gold.uexp" 703
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/shield_2_.uasset" 704
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/shield_2_.uexp" 705
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Shield.uasset" 706
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Shield.uexp" 707
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword_Skeleton.uasset" 708
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword_Skeleton.uexp" 709
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_N.uasset" 710
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_N.uexp" 711
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_M.uasset" 712
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_M.uexp" 713
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_M.ubulk" 714
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_D.uasset" 715
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword2_D.uexp" 716
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_N.uasset" 717
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_N.uexp" 718
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_M.uasset" 719
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_M.uexp" 720
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_M.ubulk" 721
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_D.uasset" 722
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/T_Blade_DragonSword1_D.uexp" 723
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/M_Blade_DragonSword.uasset" 724
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/M_Blade_DragonSword.uexp" 725
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword.uasset" 726
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Blade_DragonSword/SK_Blade_DragonSword.uexp" 727
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Dragon_Blade.uasset" 728
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Erika/Dragon_Blade.uexp" 729
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_001.uasset" 730
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_001.uexp" 731
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 732
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 733
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 734
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/GeneratedBand.uasset" 735
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/GeneratedBand.uexp" 736
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_0.uasset" 737
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/Material_0.uexp" 738
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/heal.uasset" 739
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/heal.uexp" 740
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/BP_HealGlass.uasset" 741
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/heal/BP_HealGlass.uexp" 742
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/plywood_diff_4k.uasset" 743
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/plywood_diff_4k.uexp" 744
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/plywood_diff_4k.ubulk" 745
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Wood.uasset" 746
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Wood.uexp" 747
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/chest.uasset" 748
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/chest.uexp" 749
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Chest/BP_chest.uasset" 750
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Chest/BP_chest.uexp" 751
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_NPC_Colorable.uasset" 752
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/Icons/T_Icon_NPC_Colorable.uexp" 753
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveParams.uasset" 754
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveParams.uexp" 755
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_settings_menu.uasset" 756
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_settings_menu.uexp" 757
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveGame.uasset" 758
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/BP_SaveGame.uexp" 759
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Save_and_Load_HUD.uasset" 760
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Save_and_Load_HUD.uexp" 761
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Bp_Erika.uasset" 762
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Humans/Erika/Bp_Erika.uexp" 763
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Heavy_Weapon_Swing.uasset" 764
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Heavy_Weapon_Swing.uexp" 765
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Great_Sword_Slash.uasset" 766
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Orcs/Maw/Great_Sword_Slash.uexp" 767
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_Maw.uasset" 768
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Anim_Maw.uexp" 769
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_PhysicsAsset.uasset" 770
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw_PhysicsAsset.uexp" 771
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_normal.uasset" 772
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_normal.uexp" 773
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_normal.ubulk" 774
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_glow.uasset" 775
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_glow.uexp" 776
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_glow.ubulk" 777
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_diffuse.uasset" 778
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_diffuse.uexp" 779
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_diffuse.ubulk" 780
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maria_specular.uasset" 781
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maria_specular.uexp" 782
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maria_specular.ubulk" 783
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_MAT.uasset" 784
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/MAW_MAT.uexp" 785
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw.uasset" 786
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/maw.uexp" 787
+"../../../Engine/Content/BasicShapes/Cube.uasset" 788
+"../../../Engine/Content/BasicShapes/Cube.uexp" 789
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.uasset" 790
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.uexp" 791
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracksFirey_01.ubulk" 792
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.uasset" 793
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.uexp" 794
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.ubulk" 795
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 796
+"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 797
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset" 798
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uexp" 799
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset" 800
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uexp" 801
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST.uasset" 802
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST.uexp" 803
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Maw_secondary_attack.uasset" 804
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Maw_secondary_attack.uexp" 805
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17_Skeleton.uasset" 806
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17_Skeleton.uexp" 807
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_N.uasset" 808
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_N.uexp" 809
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_M.uasset" 810
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_M.uexp" 811
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_M.ubulk" 812
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_D.uasset" 813
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe172_D.uexp" 814
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_N.uasset" 815
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_N.uexp" 816
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_M.uasset" 817
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_M.uexp" 818
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_M.ubulk" 819
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_D.uasset" 820
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/T_Dual_Blade_Axe171_D.uexp" 821
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/M_Dual_Blade_Axe17.uasset" 822
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/M_Dual_Blade_Axe17.uexp" 823
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17.uasset" 824
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Dual_Blade_Axe17/SK_Dual_Blade_Axe17.uexp" 825
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Axe_17.uasset" 826
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Weapons/Maw/Axe_17.uexp" 827
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/BP_Maw.uasset" 828
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Orcs/Maw/BP_Maw.uexp" 829
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Heal.uasset" 830
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Heal.uexp" 831
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Attack.uasset" 832
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Attacks/Mage/Wiezzorek/Magic_Attack.uexp" 833
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anim_Wiezzorek.uasset" 834
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Mage/Wiezzorek/Anim_Wiezzorek.uexp" 835
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/lightning-strike.uasset" 836
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/lightning-strike.uexp" 837
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/fireball.uasset" 838
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/fireball.uexp" 839
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Spell_HUD.uasset" 840
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Spell_HUD.uexp" 841
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Tech_Hex_Tile_M.uasset" 842
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Tech_Hex_Tile_M.uexp" 843
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Tech_Hex_Tile_M.ubulk" 844
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Shield.uasset" 845
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Shield.uexp" 846
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Dying.uasset" 847
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Animations/Orcs/Maw/Dying.uexp" 848
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Enemy_HUD.uasset" 849
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Enemy_HUD.uexp" 850
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/IA_Maw_Spawner_BP.uasset" 851
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/IA_Maw_Spawner_BP.uexp" 852
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Wiezzorek.uasset" 853
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Wiezzorek.uexp" 854
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Erika.uasset" 855
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Erika.uexp" 856
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/AIC_maw.uasset" 857
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/AIC_maw.uexp" 858
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/BP_Maw_IA.uasset" 859
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/IA/BP_Maw_IA.uexp" 860
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 861
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 862
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Shield.uasset" 863
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Shield.uexp" 864
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Lightning/T_Lightning_Radial_4X4.uasset" 865
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Lightning/T_Lightning_Radial_4X4.uexp" 866
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Lightning/T_Lightning_Radial_4X4.ubulk" 867
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset" 868
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uexp" 869
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Lightning/M_Lightning_Radial_01_Add_2X2_INST.uasset" 870
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Lightning/M_Lightning_Radial_01_Add_2X2_INST.uexp" 871
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Lightning/P_Grunt_Lightningthrower_weapon.uasset" 872
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Lightning/P_Grunt_Lightningthrower_weapon.uexp" 873
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Air_m.uasset" 874
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/Air_m.uexp" 875
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/LightningStrike.uasset" 876
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/LightningStrike.uexp" 877
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireBall.uasset" 878
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireBall.uexp" 879
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uasset" 880
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.uexp" 881
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireBlastTile.ubulk" 882
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset" 883
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uexp" 884
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset" 885
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uexp" 886
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.uasset" 887
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.uexp" 888
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Liquid/T_bloodTest_4X6.ubulk" 889
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset" 890
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uexp" 891
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.uasset" 892
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.uexp" 893
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset" 894
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uexp" 895
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.ubulk" 896
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset" 897
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uexp" 898
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uasset" 899
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uexp" 900
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.ubulk" 901
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uasset" 902
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uexp" 903
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Base.uasset" 904
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_FireBall_Base.uexp" 905
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.uasset" 906
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.uexp" 907
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Textures/Fire/T_FireTrail.ubulk" 908
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uasset" 909
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uexp" 910
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/fireball.uasset" 911
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Objects/fireball.uexp" 912
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_PhysicsAsset.uasset" 913
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek_PhysicsAsset.uexp" 914
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__specular.uasset" 915
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__specular.uexp" 916
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__specular.ubulk" 917
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__normal.uasset" 918
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__normal.uexp" 919
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__normal.ubulk" 920
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__diffuse.uasset" 921
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__diffuse.uexp" 922
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon__diffuse.ubulk" 923
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon_MAT.uasset" 924
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/Demon_MAT.uexp" 925
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek.uasset" 926
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/demon_t_wiezzorek.uexp" 927
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/BP_wiezzorek.uasset" 928
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Mage/Wiezzorek/BP_wiezzorek.uexp" 929
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/AIC_Dragon.uasset" 930
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/AIC_Dragon.uexp" 931
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Physics.uasset" 932
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurper_Physics.uexp" 933
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_R_AO_MTTex.uasset" 934
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_R_AO_MTTex.uexp" 935
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_R_AO_MTTex.ubulk" 936
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_NTex.uasset" 937
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_NTex.uexp" 938
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_NTex.ubulk" 939
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_ETex.uasset" 940
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_ETex.uexp" 941
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_ETex.ubulk" 942
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_BCTex.uasset" 943
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_BCTex.uexp" 944
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Textures/DragonTheUsurper/Red/Red_BCTex.ubulk" 945
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Materials/DragonTheUsurper/RedMat.uasset" 946
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Materials/DragonTheUsurper/RedMat.uexp" 947
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurperSK.uasset" 948
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/FourEvilDragonsPBR/Meshes/DragonTheUsurper/DragonTheUsurperSK.uexp" 949
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_BP.uasset" 950
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Characters/Familliar/Dragon/Dragon_Pet_BP.uexp" 951
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/RT_MinimapSnapshot.uasset" 952
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Textures/RT_MinimapSnapshot.uexp" 953
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Screen_Dirt.uasset" 954
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Screen_Dirt.uexp" 955
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.uasset" 956
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.uexp" 957
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.ubulk" 958
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Terrain_Mask.uptnl" 959
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_N.uasset" 960
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_N.uexp" 961
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_BC.uasset" 962
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Rock_BC.uexp" 963
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_N.uasset" 964
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_N.uexp" 965
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_BC.uasset" 966
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Textures/T_Grass_BC.uexp" 967
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Master/M_Terrain.uasset" 968
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Master/M_Terrain.uexp" 969
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Meshes/Terrain/SM_Terrain.uasset" 970
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Meshes/Terrain/SM_Terrain.uexp" 971
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Tooltip.uasset" 972
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Tooltip.uexp" 973
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BoxSelect.uasset" 974
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BoxSelect.uexp" 975
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_IconMouseCapture.uasset" 976
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_IconMouseCapture.uexp" 977
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uasset" 978
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uexp" 979
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.ubulk" 980
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Icon.uasset" 981
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Icon.uexp" 982
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 983
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 984
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 985
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Fog.uasset" 986
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Fog.uexp" 987
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Camera.uasset" 988
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Camera.uexp" 989
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_Background.uasset" 990
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_Background.uexp" 991
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Background.uasset" 992
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_Background.uexp" 993
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BackgroundMouseCapture.uasset" 994
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/MinimapInternal_BackgroundMouseCapture.uexp" 995
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_CircleMask.uasset" 996
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Materials/Background/M_UMG_CircleMask.uexp" 997
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/Minimap.uasset" 998
+"../../../Engine/Plugins/Marketplace/MinimapPlugin/Content/Widgets/Minimap.uexp" 999
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Minimap_HUD.uasset" 1000
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Minimap_HUD.uexp" 1001
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Life_HUD.uasset" 1002
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/HUD/Life_HUD.uexp" 1003
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Instances/MI_Terrain.uasset" 1004
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Vegetation/Materials/Instances/MI_Terrain.uexp" 1005
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 1006
+"../../../Engine/Content/MapTemplates/TilingNoise05.uexp" 1007
+"../../../Engine/Content/MapTemplates/TilingNoise05.ubulk" 1008
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 1009
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 1010
+"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1011
+"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uexp" 1012
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Erika.uexp" 1013
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Erika.umap" 1014
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Maw.uasset" 1015
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Gamemode/GM_Elgoal_Maw.uexp" 1016
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Maw.uexp" 1017
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Maw.umap" 1018
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1019
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1020
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1021
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1022
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1023
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1024
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1025
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1026
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1027
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_MacroVariation.uasset" 1028
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_MacroVariation.uexp" 1029
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1030
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1031
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu_BuiltData.uasset" 1032
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu_BuiltData.uexp" 1033
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_WoodCabinDif.uasset" 1034
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_WoodCabinDif.uexp" 1035
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_WoodCabinDif.ubulk" 1036
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_CabinMat__WoodCabinDif_jpg.uasset" 1037
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_CabinMat__WoodCabinDif_jpg.uexp" 1038
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_Wooden.uasset" 1039
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_Wooden.uexp" 1040
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_Choose_Character.uasset" 1041
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_Choose_Character.uexp" 1042
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 1019
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 1020
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_GreenLeaves.uasset" 1021
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_GreenLeaves.uexp" 1022
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/Tree_V9_tree_v9_leaves.uasset" 1023
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/Tree_V9_tree_v9_leaves.uexp" 1024
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/tree.uasset" 1025
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/tree.uexp" 1026
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_WoodCabinDif.uasset" 1027
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_WoodCabinDif.uexp" 1028
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_WoodCabinDif.ubulk" 1029
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_CabinMat__WoodCabinDif_jpg.uasset" 1030
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_CabinMat__WoodCabinDif_jpg.uexp" 1031
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_Wooden.uasset" 1032
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_Wooden.uexp" 1033
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Grass.uasset" 1034
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Grass.uexp" 1035
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Grass.ubulk" 1036
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Grass.uasset" 1037
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Grass.uexp" 1038
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_CartoonGrass.uasset" 1039
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_CartoonGrass.uexp" 1040
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/grass.uasset" 1041
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/grass.uexp" 1042
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/StoryTimes/OpenGame/story-time-partie-4.uasset" 1043
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/StoryTimes/OpenGame/story-time-partie-4.uexp" 1044
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/StoryTimes/OpenGame/story-time-partie-3.uasset" 1045
@@ -1049,34 +1049,33 @@
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/StoryTimes/OpenGame/story-time-partie-2.uexp" 1048
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/StoryTimes/OpenGame/story-time-partie-1.uasset" 1049
 "C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/StoryTimes/OpenGame/story-time-partie-1.uexp" 1050
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_main_menu.uasset" 1051
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_main_menu.uexp" 1052
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1053
-"../../../Engine/Content/BasicShapes/Plane.uexp" 1054
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 1055
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 1056
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_GreenLeaves.uasset" 1057
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_GreenLeaves.uexp" 1058
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_TrunkNormal.uasset" 1059
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_TrunkNormal.uexp" 1060
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_TrunkDiffuse.uasset" 1061
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_TrunkDiffuse.uexp" 1062
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Bark.uasset" 1063
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Bark.uexp" 1064
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_Fir_Tree.uasset" 1065
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_Fir_Tree.uexp" 1066
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Grass.uasset" 1067
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Grass.uexp" 1068
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Textures/T_Grass.ubulk" 1069
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Grass.uasset" 1070
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Materials/M_Grass.uexp" 1071
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_CartoonGrass.uasset" 1072
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/SM_CartoonGrass.uexp" 1073
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/Foliage.uasset" 1074
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/BP/Foliage.uexp" 1075
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu.uexp" 1076
-"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu.umap" 1077
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1078
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1079
-"../../../Engine/Content/Maps/Entry.uexp" 1080
-"../../../Engine/Content/Maps/Entry.umap" 1081
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_Choose_Character.uasset" 1051
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_Choose_Character.uexp" 1052
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_main_menu.uasset" 1053
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/UI_main_menu.uexp" 1054
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1055
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1056
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1057
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1058
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1059
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1060
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1061
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1062
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1063
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_MacroVariation.uasset" 1064
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Textures/T_MacroVariation.uexp" 1065
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1066
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1067
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu_BuiltData.uasset" 1068
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu_BuiltData.uexp" 1069
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1070
+"../../../Engine/Content/BasicShapes/Plane.uexp" 1071
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu.uexp" 1072
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu.umap" 1073
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Wiezzorek_BuiltData.uasset" 1074
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Wiezzorek_BuiltData.uexp" 1075
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Wiezzorek_BuiltData.ubulk" 1076
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/HighGrass.uasset" 1077
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Meshs/HighGrass.uexp" 1078
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Wiezzorek.uexp" 1079
+"C:/Users/danie/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Wiezzorek.umap" 1080
