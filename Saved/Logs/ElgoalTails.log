@@ -15647,3 +15647,359 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
 [2022.12.01-22.04.29:787][960]LogPackageName: SearchForPackageOnDisk took   0.175s, but failed to resolve Env_ALL_Artifacts.
 [2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2022.12.01-22.05.07:382][466]MapCheck: New page: Map Check
+[2022.12.01-22.05.07:399][466]Cmd: MAP REBUILD ALLVISIBLE
+[2022.12.01-22.05.07:399][466]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.12.01-22.05.07:505][466]LogWorld: UWorld::CleanupWorld for Map_Erika, bSessionEnded=true, bCleanupResources=false
+[2022.12.01-22.05.07:517][466]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.12.01-22.05.07:517][466]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.12.01-22.05.07:517][466]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.12.01-22.05.07:530][466]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.12.01-22.05.12:213][466]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 4.70s
+[2022.12.01-22.05.12:223][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.01-22.05.12:248][466]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2022.12.01-22.05.12:254][466]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2022.12.01-22.05.12:259][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.12.01-22.05.12:264][466]LightingResults: New page: Lighting Build - 2 déc. 2022 à 00:05:12
+[2022.12.01-22.05.12:288][466]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.12.01-22.05.12:325][466]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.12.01-22.05.12:334][466]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.12.01-22.05.12:853][466]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.12.01-22.05.12:853][466]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5844
+[2022.12.01-22.05.19:195][466]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.12.01-22.05.19:195][466]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.12.01-22.05.19:195][466]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.12.01-22.05.19:195][466]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.12.01-22.05.19:195][466]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.12.01-22.05.19:195][466]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.12.01-22.05.19:258][466]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.12.01-22.05.19:258][466]MapCheck: New page: Map_Erika - 2 déc. 2022 à 00:05:19
+[2022.12.01-22.05.19:258][466]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,31ms to complete.
+[2022.12.01-22.05.19:260][466]LogEditorBuildUtils: Build time 0:11
+[2022.12.01-22.05.19:275][466]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.01-22.05.19:275][466]LogShaderCompilers: Display: Total job queries 1789, among them cache hits 0 (0.00%)
+[2022.12.01-22.05.19:275][466]LogShaderCompilers: Display: Tracking 1031 distinct input hashes that result in 465 distinct outputs (45.10%)
+[2022.12.01-22.05.19:275][466]LogShaderCompilers: Display: RAM used: 3.75 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.23%
+[2022.12.01-22.05.19:275][466]LogShaderCompilers: Display: ================================================
+[2022.12.01-22.05.19:312][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.12.01-22.05.22:348][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.12.01-22.05.22:423][704]LogSavePackage: Moving '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Map_Erika_Auto12BB775AB4B79AA0D9C5481A42B4FC04D.tmp' to '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Autosaves/Game/Game/Maps/Map_Erika_Auto1.umap'
+[2022.12.01-22.05.22:425][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Maps/Map_Erika' took 0.083
+[2022.12.01-22.05.22:425][704]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2022.12.01-22.05.41:882][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.01-22.05.43:020][442]Job is a success!
+[2022.12.01-22.05.44:808][442]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-22.05.44:901][442]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game/UI/Menus/Main_Menu.Main_Menu
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.048s
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:      Bricks at depth
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:          0: 10.8% covering 100.0% of volume
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:          1: 89.2% covering 12.9% of volume
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:      Bricks in each level
+[2022.12.01-22.05.45:111][443]LogVolumetricLightmapImport:          Map_Erika 			 74 bricks 	 100.0% (Persistent Level)
+[2022.12.01-22.05.45:131][443]Lightmass on DESKTOP-F7I6U1S: 25.3 sec total, 245 ms importing, 94 ms setup, 1.55 sec photons, 23.3 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 5:50 min total, 2.06 sec processing.
+[2022.12.01-22.05.45:146][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.01-22.05.45:207][443]LogStaticLightingSystem: Illumination: 32.8 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.12.01-22.05.45:207][443]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.12.01-22.05.45:207][443]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.12.01-22.05.50:222][443]DumpUnbuiltLightIteractions
+[2022.12.01-22.05.50:222][443]Lights with unbuilt interactions: 0
+[2022.12.01-22.05.50:222][443]
+[2022.12.01-22.05.50:222][443]Primitives with unbuilt interactions: 0
+[2022.12.01-22.05.50:281][443]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.01-22.05.50:284][444]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.12.01-22.05.50:284][444]MapCheck: New page: Map_Erika - 2 déc. 2022 à 00:05:50
+[2022.12.01-22.05.50:284][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,226ms to complete.
+[2022.12.01-22.05.53:129][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.12.01-22.05.55:591][782]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-22.05.55:623][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.12.01-22.05.55:673][782]LogSavePackage: Moving '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Map_Erika0B59568E4053E142DCC6FA9C0BCBE753.tmp' to '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Erika.umap'
+[2022.12.01-22.05.55:676][782]LogFileHelpers: Saving map 'Map_Erika' took 0.060
+[2022.12.01-22.05.55:676][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Maps/Map_Erika_BuiltData" FILE="../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Erika_BuiltData.uasset" SILENT=true
+[2022.12.01-22.05.55:677][782]LogSavePackage: Moving '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Map_Erika_BuiltData11A419B84ED6D07059B4428D0C379B8F.tmp' to '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Content/Game/Maps/Map_Erika_BuiltData.uasset'
+[2022.12.01-22.05.55:694][782]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game/UI/Menus/Main_Menu.Main_Menu
+[2022.12.01-22.05.55:699][782]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.12.01-22.05.55:700][782]Cmd: MAP LOAD FILE="../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-22.05.55:700][782]LightingResults: New page: Lighting Build
+[2022.12.01-22.05.55:702][782]LoadErrors: New page: Loading map: Main_Menu.umap
+[2022.12.01-22.05.55:738][782]LogWorld: UWorld::CleanupWorld for Map_Erika, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.05.55:740][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.05.55:741][782]MapCheck: New page: Map Check
+[2022.12.01-22.05.55:741][782]LightingResults: New page: Lighting Build
+[2022.12.01-22.05.55:746][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-22.05.55:758][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.01-22.05.55:774][782]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2022.12.01-22.05.55:793][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-22.05.55:793][782]LogAIModule: Creating AISystem for world Main_Menu
+[2022.12.01-22.05.55:801][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.01-22.05.55:803][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-22.05.55:804][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.12.01-22.05.55:804][782]LogFileHelpers: Loading map 'Main_Menu' took 0.110
+[2022.12.01-22.05.55:816][782]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.01-22.05.55:816][782]LogContentValidation: Display: Validating World /Game/Game/Maps/Map_Erika.Map_Erika
+[2022.12.01-22.05.55:887][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Maps/Map_Erika_BuiltData.Map_Erika_BuiltData
+[2022.12.01-22.06.03:461][666]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.01-22.06.03:465][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-22.06.03:465][666]PIE: New page: PIE session: Main_Menu (2 déc. 2022 à 00:06:03)
+[2022.12.01-22.06.03:487][666]LogPlayLevel: Creating play world package: /Game/Game/UI/Menus/UEDPIE_0_Main_Menu
+[2022.12.01-22.06.03:488][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001276s)
+[2022.12.01-22.06.03:489][666]LogAIModule: Creating AISystem for world Main_Menu
+[2022.12.01-22.06.03:489][666]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2022.12.01-22.06.03:489][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/UI/Menus/Main_Menu.Main_Menu to /Game/Game/UI/Menus/UEDPIE_0_Main_Menu.Main_Menu (0.002191s)
+[2022.12.01-22.06.03:499][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.12.01-22.06.03:501][666]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.01-22.06.03:501][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-22.06.03:501][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-22.06.03:501][666]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-22.06.03:502][666]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-22.06.03:502][666]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-22.06.03:502][666]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.01-22.06.03:505][666]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.01-22.06.03:505][666]LogAudioMixer: Display: 1: FrontRight
+[2022.12.01-22.06.03:512][666]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (Arctis 5 Chat)
+[2022.12.01-22.06.03:512][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-22.06.03:512][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-22.06.03:512][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-22.06.03:513][666]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.01-22.06.03:513][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.01-22.06.03:513][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.01-22.06.03:513][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.01-22.06.03:513][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.01-22.06.03:513][666]LogInit: FAudioDevice initialized.
+[2022.12.01-22.06.03:514][666]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Menu'.
+[2022.12.01-22.06.03:521][666]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.12.01-22.06.03:521][666]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.12.01-22.06.03:521][666]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2022.12.01-22.06.03:521][666]LogLoad: Game class is 'GameModeBase'
+[2022.12.01-22.06.03:522][666]LogWorld: Bringing World /Game/Game/UI/Menus/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2022.12.01-23.06.03
+[2022.12.01-22.06.03:522][666]LogWorld: Bringing up level for play took: 0.000252
+[2022.12.01-22.06.03:522][666]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.12.01-22.06.03:525][666]Cmd: r.Vsync 1
+[2022.12.01-22.06.03:525][666]r.VSync = "1"
+[2022.12.01-22.06.03:525][666]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.01-22.06.03:525][666]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.01-22.06.03:525][666]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.01-22.06.03:526][666]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.12.01-22.06.03:526][666]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.01-22.06.03:526][666]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.01-22.06.03:526][666]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.12.01-22.06.03:527][666]LogLevel: Warning: DisableInput on a LevelScript actor can not be specified for only one PlayerController.  Disabling for all PlayerControllers.
+[2022.12.01-22.06.03:527][666]Cmd: r.Vsync 1
+[2022.12.01-22.06.03:527][666]r.VSync = "1"
+[2022.12.01-22.06.03:527][666]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.01-22.06.03:527][666]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.12.01-22.06.03:527][666]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.01-22.06.03:527][666]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.01-22.06.03:528][666]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.01-22.06.03:528][666]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.12.01-22.06.03:529][666]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.01-22.06.03:529][666]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [C:/Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Config/Windows/Scalability.ini]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.01-22.06.03:529][666]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.12.01-22.06.03:529][666]PIE: Server logged in
+[2022.12.01-22.06.03:530][666]PIE: Play in editor total start time 0,065 seconds.
+[2022.12.01-22.06.16:057][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-22.06.16:057][109]LogWorld: BeginTearingDown for /Game/Game/UI/Menus/UEDPIE_0_Main_Menu
+[2022.12.01-22.06.16:057][109]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.06.16:057][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.06.16:068][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-22.06.16:071][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.06.16:078][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-22.06.16:078][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-22.06.16:079][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.01-22.06.16:081][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-22.06.16:083][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.12.01-22.06.16:122][112]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.01-22.06.17:819][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.12.01-22.06.17:829][312]LogSavePackage: Moving '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Main_Menu3A66229547A2F77E1E4E559B555F0D85.tmp' to '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu.umap'
+[2022.12.01-22.06.17:834][312]LogSavePackage: Moving '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Saved/Main_Menu_BuiltDataC209597C426C670783020AA35C7AFDDA.tmp' to '../../../../../../Users/reytd/Documents/Unreal Projects/ElgoalTails/Content/Game/UI/Menus/Main_Menu_BuiltData.uasset'
+[2022.12.01-22.06.17:842][312]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.01-22.06.17:842][312]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/UI/Menus/Main_Menu_BuiltData.Main_Menu_BuiltData
+[2022.12.01-22.06.17:842][312]LogContentValidation: Display: Validating World /Game/Game/UI/Menus/Main_Menu.Main_Menu
