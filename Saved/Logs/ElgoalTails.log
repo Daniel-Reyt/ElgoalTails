@@ -15375,3 +15375,275 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.01-22.03.00:252][792]LogLinker: Warning: Failed to load '/Game/Vegetation/Textures/T_Yellow_02_BC': Can't find file.
 [2022.12.01-22.03.00:252][792]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Vegetation/Textures/T_Yellow_02_BC.T_Yellow_02_BC'
 [2022.12.01-22.03.11:925][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.25:607][948]LogPackageName: SearchForPackageOnDisk took   0.186s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2022.12.01-22.04.25:607][948]LogPackageName: SearchForPackageOnDisk took   0.194s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2022.12.01-22.04.25:607][948]LogPackageName: SearchForPackageOnDisk took   0.192s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2022.12.01-22.04.25:607][948]LogPackageName: SearchForPackageOnDisk took   0.140s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.25:607][948]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.213s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.218s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.240s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.275s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.231s, but failed to resolve FX_Meshes.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.240s, but failed to resolve FX_Meshes.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.244s, but failed to resolve 'FX_Ambient.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.238s, but failed to resolve CastleEffects.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2022.12.01-22.04.26:256][949]LogPackageName: SearchForPackageOnDisk took   0.196s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.12.01-22.04.26:256][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.211s, but failed to resolve StaticMesh'FX_Meshes.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.218s, but failed to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.209s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.212s, but failed to resolve FX_Meshes.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.215s, but failed to resolve 'FX_Ambient.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.219s, but failed to resolve FX_Meshes.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.219s, but failed to resolve CastleEffects.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.211s, but failed to resolve StaticMesh'FX_Meshes.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.146s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.164s, but failed to resolve FX_Test_LAN.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:257][949]LogPackageName: SearchForPackageOnDisk took   0.157s, but failed to resolve FX_Test_LAN.
+[2022.12.01-22.04.26:257][949]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2022.12.01-22.04.26:331][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:331][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:509][949]LogPackageName: SearchForPackageOnDisk took   0.162s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2022.12.01-22.04.26:509][949]LogPackageName: SearchForPackageOnDisk took   0.186s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.12.01-22.04.26:509][949]LogPackageName: SearchForPackageOnDisk took   0.192s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:509][949]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:509][949]LogPackageName: SearchForPackageOnDisk took   0.178s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:684][950]LogPackageName: SearchForPackageOnDisk took   0.196s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:684][950]LogPackageName: SearchForPackageOnDisk took   0.198s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:684][950]LogPackageName: SearchForPackageOnDisk took   0.159s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:684][950]LogPackageName: SearchForPackageOnDisk took   0.157s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:684][950]LogPackageName: SearchForPackageOnDisk took   0.158s to resolve m_FogSheet_02.
+[2022.12.01-22.04.26:684][950]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:684][950]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:933][951]LogPackageName: SearchForPackageOnDisk took   0.208s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.26:933][951]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:177][952]LogPackageName: SearchForPackageOnDisk took   0.168s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2022.12.01-22.04.27:177][952]LogPackageName: SearchForPackageOnDisk took   0.177s, but failed to resolve JW_FlameDungeon.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2022.12.01-22.04.27:177][952]LogPackageName: SearchForPackageOnDisk took   0.178s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:177][952]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:479][953]LogPackageName: SearchForPackageOnDisk took   0.144s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.12.01-22.04.27:479][953]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.12.01-22.04.27:479][953]LogPackageName: SearchForPackageOnDisk took   0.148s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.27:479][953]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.27:479][953]LogPackageName: SearchForPackageOnDisk took   0.146s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2022.12.01-22.04.27:479][953]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2022.12.01-22.04.27:479][953]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:479][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:480][953]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:480][953]LogPackageName: SearchForPackageOnDisk took   0.165s to resolve m_FogSheet_02.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.186s, but failed to resolve FX_Meshes.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.196s, but failed to resolve FX_Test_LAN.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.199s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.199s, but failed to resolve FX_Meshes.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.199s, but failed to resolve 'FX_Ambient.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.203s, but failed to resolve CastleEffects.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.202s, but failed to resolve StaticMesh'FX_Meshes.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.27:773][954]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.110s to resolve m_FogSheet_02.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.120s to resolve m_FogSheet_02.
+[2022.12.01-22.04.27:773][954]LogPackageName: SearchForPackageOnDisk took   0.120s to resolve m_FogSheet_02.
+[2022.12.01-22.04.28:417][955]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:417][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.28:568][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.28:568][955]LogPackageName: SearchForPackageOnDisk took   0.150s to resolve S_Survival_CA_Chicken_02.
+[2022.12.01-22.04.28:623][956]LogPackageName: SearchForPackageOnDisk took   0.192s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.28:623][956]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.28:623][956]LogPackageName: SearchForPackageOnDisk took   0.158s to resolve S_Survival_CA_Chicken_02.
+[2022.12.01-22.04.28:623][956]LogPackageName: SearchForPackageOnDisk took   0.169s to resolve S_Survival_CA_Chicken_02.
+[2022.12.01-22.04.28:623][956]LogPackageName: SearchForPackageOnDisk took   0.172s to resolve S_Survival_CA_Chicken_02.
+[2022.12.01-22.04.28:623][956]LogPackageName: SearchForPackageOnDisk took   0.174s to resolve S_Survival_CA_Chicken_02.
+[2022.12.01-22.04.28:726][957]LogPackageName: SearchForPackageOnDisk took   0.190s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.28:726][957]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.28:726][957]LogPackageName: SearchForPackageOnDisk took   0.196s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.28:726][957]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.28:726][957]LogPackageName: SearchForPackageOnDisk took   0.193s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.28:726][957]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.28:726][957]LogPackageName: SearchForPackageOnDisk took   0.201s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.28:726][957]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.28:726][957]LogPackageName: SearchForPackageOnDisk took   0.205s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.28:726][957]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.29:229][958]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:229][958]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:230][958]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:230][958]LogPackageName: SearchForPackageOnDisk took   0.164s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.29:230][958]LogPackageName: SearchForPackageOnDisk took   0.164s, but failed to resolve Env_ALL_Artifacts.
+[2022.12.01-22.04.29:230][958]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2022.12.01-22.04.29:383][959]LogPackageName: SearchForPackageOnDisk took   0.168s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.29:383][959]LogPackageName: SearchForPackageOnDisk took   0.169s, but failed to resolve Env_ALL_Artifacts.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.12.01-22.04.29:383][959]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.12.01-22.04.29:787][960]LogPackageName: SearchForPackageOnDisk took   0.165s, but failed to resolve Env_ALL_Artifacts.
+[2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2022.12.01-22.04.29:787][960]LogPackageName: SearchForPackageOnDisk took   0.168s, but failed to resolve Env_ALL_Artifacts.
+[2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2022.12.01-22.04.29:787][960]LogPackageName: SearchForPackageOnDisk took   0.169s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.29:787][960]LogPackageName: SearchForPackageOnDisk took   0.174s, but failed to resolve JW_Ice_Mountain.
+[2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.12.01-22.04.29:787][960]LogPackageName: SearchForPackageOnDisk took   0.175s, but failed to resolve Env_ALL_Artifacts.
+[2022.12.01-22.04.29:787][960]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
